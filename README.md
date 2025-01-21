@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JannerzA
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Python and NoSQL whilst within my MSc in Big Data
+- 🌱 I’m currently learning Python and NoSQL whilst studying for a MSc in Big Data
 - 💞️ I’m looking to collaborate on projects that excite me
 - 📫 How to reach me .. duh 
 - 😄 Pronouns: she/her
